@@ -65,7 +65,7 @@ public static class EnemyFactory
 {
     public static AbstractEnemy Create (string name) 
     {
-        if (name == 'Enemy1')
+        if (name == "Enemy1")
             return new Enemy1();
             
         //etc...
