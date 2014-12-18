@@ -8,6 +8,8 @@
 
 <h2>Idea</h2>
 
+<img src="http://delegadoanonimo.github.io//img/2014-12/2dfe_2.jpg" alt="2DFE" class="img-responsive center-block">
+
 <p>
 Suppose your game has one platform, two enemies and an obstacle. During the construction of the level, the editor should allow you to position these "elements" in the places you want them to appear in the game.
 </p>
@@ -18,7 +20,7 @@ Using 2DFE you can do the following:
 <ul>
 <li>1-In the same directory of editor, create a folder called "Elements".</li>
 <li>2-Below the "Elements" folder, create folders for each category of elementsand copy a image that represents that element.</li>
-<ul>
+</ul>
 
 <ul>
     <li>
@@ -49,6 +51,8 @@ Using 2DFE you can do the following:
 </p>
 
 <h2>'F' is flexible</h2>
+
+<img src="http://delegadoanonimo.github.io//img/2014-12/2dfe_1.jpg" alt="Game running" class="img-responsive center-block">
 
 <p>
 The result of this arrangement is that you now have a specialized editor for your 2D game. Whatever it is.
